@@ -1,1 +1,1 @@
-{'curver': 104,'supver':[104, 200],'info':[1,['test message','test2']]]
+{'curver': 104,'supver':[104, 200],'info':[1,['test message','test2']]}
