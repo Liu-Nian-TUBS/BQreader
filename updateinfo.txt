@@ -1,1 +1,1 @@
-{'curver': 104,'supver':[103, 104, 200],'info':[1,['Better UI','Fixed bugs'],['title','message']],'url':'https://github.com/Liu-Nian-TUBS/BQreader/releases/download/demoversion/BusQueryFileReader.zip'}
+{'curver': 200,'supver':[103, 104, 200],'info':[1,['Better UI','Fixed bugs'],['title','message']],'url':'https://github.com/Liu-Nian-TUBS/BQreader/releases/download/v2.0/BQreaderv200.zip'}
