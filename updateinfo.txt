@@ -1,1 +1,1 @@
-{'curver': 203,'supver':[103, 104, 200,201,202,203],'info':[1,['Fixed Problems failing to reader some specific Bus Query Files'],['title','message']],'url':'https://github.com/Liu-Nian-TUBS/BQreader/releases/download/v2.0/Update2v203.zip'}
+{'curver': 204,'supver':[103, 104, 200,201,202,203,204],'info':[1,['Fixed the problem of DID sorting confusion','Provide quick folding and unfolding button'],['title','message']],'url':'https://github.com/Liu-Nian-TUBS/BQreader/releases/download/v2.0/Update2v204.zip'}
